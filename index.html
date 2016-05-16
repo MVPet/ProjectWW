@@ -42,18 +42,6 @@
 
 <p>Thanks to Unity, the game is playable right in your browser (with the Unity Web Player installed)</p>
 
-<p>There are two versions found below, a Stable Build and a Weekly Build. The Weekly Build is a newer build than the Stable Build and contains new features, but these features may be rough, unpolished, or slightly buggy. I guarantee that both builds can be played from start to finish.</p>
-
-<p>The game can be played with both a keyboard and a controller (even in the browser version).<br>The controls are:</p>
-<ul>
-<li>Movement is  'Arrow Keys' or 'WASD' on the keyboard. The left stick and D-Pad on a controller.</li>
-<li>Light Attack is 'I' key on the keyboard or 'Button 0' on a controller.</li>
-<li>Heavy Attack is 'O' key on the keyboard or 'Button 3' on the controller.</li>
-<li>Dodge is 'P' key on the keyboard or 'Button 2' on the controller</li>
-<li>Confirm/Start is 'Enter' key on the keyboard or 'Button 1' on the controller.</li>
-<li>Pause is 'ESC' on the keyboard or 'Button 5' on the controller.</li>
-</ul>
-
 <p>The flow of combat is done by pressing Light Attack to start a low damaging combo then using Heavy Attack to perform a high damaging combo ender. Each ender is unique and depend on how many Light Attacks were used in the combo prior to the ender.</p>
 
 <p>The combo list for the prototype is like so (H = Heavy Attack, L = Light Attack):</p>
@@ -66,71 +54,38 @@
 <li>LLLLL</li>
 </ul>
 
-<h4><p>Latest Stable Build: <a href="http://mvpet.github.io/ProjectWW/Build2.html">Play</a></p></h4>
+<p>There are two versions found below, a Stable Build and a Weekly Build. The Weekly Build is a newer build than the Stable Build and contains new features, but these features may be rough, unpolished, or slightly buggy.</p>
+
+<p>For those who do not have Unity Web Player, a download link will be put here soon to allow you to play the demo on your computer.</p>
+
+<h4><p>Latest Stable Build: <a href="http://mvpet.github.io/ProjectWW/StableBuild.html">Play</a></p></h4>
 <pre><code>Stable Build Notes:
-- March 6, 2016
-  - Added V0.2.1 Stable Build
-  - Features:
-      - 2 Playable Characters, Ryu and Servbot
-      - Randomly Generated Very Basic Stage
-      - Random Mission, Either KO X Amount of Enemies or Capture 2 Bases
+- May 15, 2016
+  - Multi Layered Stages. Stages can now take up any nuber of layers that the player can swap between.
+  - Revamped Mission System. Stages now consist of multiple missions in a row.
+  - New Target Missions. Defeat a specific enemy in order to complete the mission.
+  - Added the ability to Run to each playable character.
+  - Completely Revamped UI. Hit Sparks, Health Bars and more.
+  - Added a new character who will be unlocked after completing the demo once.
+  - Added a Read-Only Controls Section to Main Menu.
+  - Added Pause Screen that shows a map of the stage, and allows the player to quit.
+      - The map shows the current status of the stage and mission targets.
+  - Enemies have very basic AI. THey will move towards/away from the player and will attack.
+  - Added Super Moves to all playable characters.
+  - Removed Servbot from the game.
+  - New Base, The HQ. The HQ will not spawn any enemies when entered.
+  - Completely redone animation system to fix some of the stiffness when performing combos.
+  - Implented a system for storing the data for each character on external files.
+  - Cleaned up many animations and sprites.
+  - Changed how the camera follows the player.
+  - Many bug fixes.
 </code></pre>
 
 <h4><p>Latest Weekly Build: <a href="http://mvpet.github.io/ProjectWW/WeeklyBuild.html">Play</a></p></h4>
 
 <pre><code>Additions in Weekly Build
-- March 13, 2016
-  - Revamped Mission System. Allows multiple missions to chain together.
-  - Target Mission. When started, this mission will spawn a target to be defeated.
-  - Enemy AI. Enemies will move and attack the player if the player enters their range.
-  - "Boss" character Ryu.
-  - Animations for Ryu and Servbot when they take damage.
-  - Enemy HQ. No enemies will spawn in here when entered.
-- March 21, 2016
-  - Better enemy AI
-    - Will no longer block view of the player
-    - Better angle when attacking player
-  - Added AI for AI Ryu.
-- March 27, 2016
-  - Added Hit Sparks when an attack is landed.
-  - Added framework to spawn and render multi-tiered stages.
-  - (Very Minor) Added date to version number on title screen.
-- April 3, 2016
-  - Added Multi Layered Stages (Stand near an arrow and press Submit [Enter or X Button] to move between layers).
-  - Modified stage boundaries/invisible walls
-  - Modified how the camera follows the player.
-  - Added the ability to run to playable characters. (Press and hold Dodge to start running).
-  - Multiple small bug fixes that cropped up from the above implementations.
-- April 10, 2016
-  - Added a Super Move to Ryu and Servbot (Press i or button 6 and requires a full Super Bar) and Super Move Bar to the GUI.
-  - Altered keyboard control scheme (i for Super, o for Light Attack, p for Heavy Attack, space for Dodge)
-  - Started framework for storing character data.
-  - Experimental: Added EX moves for all Heavy Attacks (press Light and Heavy attack with 1/3 Super Bar to do an EX move)
-  - Unplayable: Started work on a new playable character.
-- April 17, 2016
-  - No update this week. Backend is half changed and is not in a playable state.
-  - Next week there will be a hefty update.
-- April 24, 2016
-  - Added a new playabe character!
-  - This character ust be unlocked first by beating the demo at least once.
-  - New framework added for storing character data. Values are now stored as JSON instead of being semi-hard-coded.
-  - Lots of code refactoring.
-  - Minor bug fixes.
-  - New bug introduced. Idle animations appear as white blobs. Only happens in Web Builds. Looking into this.
-- May 2,2016
-  - White blob "bug" has been "fixed". Must have been a bad build in the previous build.
-  - Removed Serbot. Needs much more work.
-  - Removed EX Moves. They did not provide more depth to the comabt and only made super moves useless.
-  - Redid 90% of the UI.
-  - Revamped animation system to remove janky-ness.
-  - Cleaned up generic enemy sprites and animations.
-- May 7, 2016
-  - Added Pause Menu with 4 options, Resume, Map, Combos, Quit.
-  - Map option will display map of the current stage.
-  - Combos option will show the current characters combos.
-  - Map and Combo options need to be cleaned up and polished.
-  - Added Controls option to Title Screen, does not do anything just yet as the code behind it is not yet complete.
-  - Cleaned up menus.
+- May 15, 2016
+  - Weekly Build is same as the above Stable Build.
 </code></pre>
 
 <h3>
@@ -152,7 +107,7 @@
 <p>Great question. Unfortunately, game development is not very big in my part of the US. Having a demanding full time job and not being artistically talented doesn't help either. Becasue of all that I decided I would use my fanboyish love for Capcom to develop a fan game.</p>
 
 <h4>Why are you using a 3D game engine to develop a 2D game?</h4>
-<p>One day I plan to work on 3D games, so I figured I'd learn the ins and outs of 3D development by making a game in a 3D engine. It just happened to be a 2D game that I am making. Devloping on a potato and having worked with Unity and C# before might have also had a factor in my decision.</p>
+<p>One day I plan to work on 3D games, so I figured I'd learn the ins and outs of 3D development by making a game in a 3D engine. It just happened to be a 2D game that I am making. Developing on a potato and having worked with Unity and C# before might have also had a factor in my decision. However, this will be the last time I use Unity to develop a 2D game.</p>
 
 <h4>Ugh. Why are there so many conflicting artstyles with the sprites?</h4>
 <p>It wouldn't have the Capcom feel if I didn't use an assortment of sprites from different games. But honestly, to realize the vision I have I needed to either make my own or use sprites from different games.</p>

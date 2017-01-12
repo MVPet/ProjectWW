@@ -27,15 +27,8 @@ ALL CHARACTERS, GRAPHICS, AND MUSIC ARE OWNED BY CAPCOM.</h3>
 <p>For those who do not have Unity Web Player, here is a link to download a standalone version to play on your computer: <br><a href="https://drive.google.com/open?id=0B63ySixcTyG4VFNzUHc1dmhDVXM">Download Here</a></p>
 
 <h4><p>Latest Stable Build: <a href="http://mvpet.github.io/ProjectWW/WeeklyBuild.html">Play</a></p></h4>
-<p>Stable Build Notes:
-- June 27, 2016
-  - Sorry for the late update, but things ahve been busy lately and I did not have much time to work on this.
-  - In addition, this is the last update. I will not be working on this project anymore. The fire is no longer there and I have learned what I wanted to learn from Unity.
-  - Maybe one day I'll go back to this idea, but as of now I'm going off to work on a new project in a custom made Engine.
-  - Come back in a month or so and I might have something to show off.
-</p>
 
-<h3><p>Videos</p></h3>
+<h3><p align="center">Videos</p></h3>
 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/reAcTrzuf9M" frameborder="0" allowfullscreen></iframe></p>
 

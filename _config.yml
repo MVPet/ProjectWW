@@ -1,0 +1,8 @@
+title: Project W.W.
+description: A Playable Prototype of my Next Project
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions

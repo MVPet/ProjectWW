@@ -20,6 +20,8 @@
 
 <p>If you do not have Unity Web Player or prefer to download the demo, a link to the demo is <br><a href="https://drive.google.com/open?id=0B63ySixcTyG4VFNzUHc1dmhDVXM">HERE</a></p>
 
+<p align="center"><i><b>This is a nonprofit fan game demo. All content used (Music, Graphics, Fonts) is owned by Capcom. <br>Please support the official releases.</b></i></p>
+
 <h3><p align="center">Videos</p></h3>
 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/reAcTrzuf9M" frameborder="0" allowfullscreen></iframe></p>

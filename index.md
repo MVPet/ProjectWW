@@ -3,7 +3,7 @@
 <b><i>Development Time: January 2016 to April 2016</i></b><br>
 </h4>
 <br>
-<p>This project originally began with me wanting to create a 2D version of Koei Tecmo's Dynasty Warriors series. As I got around to planning it out, I discovered that a 2D Dynasty Warriors is very similar to a 2D Beat 'Em Up so I decided to make a game combining the two concepts, a 2D Beat Em Up with Dynasty Warriors gameplay. I decided to use Street Fighter as the theme since my favorite Beat Em Ups were made by Capcom and a Street Fighter Warriors sounded like a cool idea.</p>
+<p>This project originally began with me wanting to create a 2D version of Koei Tecmo's Dynasty Warriors series. As I got around to planning it out, I discovered that a 2D Dynasty Warriors is very similar to a 2D Beat 'Em Up so I decided to make a game combining the two concepts, a 2D Beat Em Up with Dynasty Warriors gameplay. I decided to use Street Fighter as the theme since my favorite Beat Em Ups were made by Capcom and a Street Fighter Warriors sounded like a cool idea. However, I have stopped development on this game due to the lack of interest for the demo.</p>
 
 <h3><p align = "center">The Demo</p></h3>
 
@@ -34,6 +34,5 @@ Please support the official releases.</b></i></p>
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/reAcTrzuf9M" frameborder="0" allowfullscreen></iframe></p>
 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/I_Ku3A7V1wE" frameborder="0" allowfullscreen></iframe></p>
-
-
+<br>
 <p align="center"><a href="http://mvpet.github.io/">Back to Main Page</a></p>

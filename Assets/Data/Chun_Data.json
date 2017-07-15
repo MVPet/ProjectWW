@@ -1,0 +1,21 @@
+﻿{"name":"Chunli", "footOffset":2, "maxHealth":100, "maxSpeed":2}
+{"combo":"N", "damage":1,"knockback":{"x":0.0,"y":0.0}, "range":0.3}
+{"combo":"NN", "damage":1,"knockback":{"x":0.0,"y":0.0}, "range":0.35}
+{"combo":"NNN", "damage":1,"knockback":{"x":0.0,"y":0.0}, "range":0.3}
+{"combo":"NNNN", "damage":1,"knockback":{"x":0.0,"y":0.0}, "range":0.4}
+{"combo":"NNNNN", "damage":4,"knockback":{"x":3.0,"y":10.0}, "range":0.4}
+{"combo":"NNSp", "damage":1,"knockback":{"x":0.0,"y":0.0}, "range":0.3}
+{"combo":"NNNSp", "damage":4,"knockback":{"x":1.0,"y":10.0}, "range":0.3}
+{"combo":"SpN", "damage":1,"knockback":{"x":0.0,"y":2.0}, "range":0.3}
+{"combo":"SpSp", "damage":1,"knockback":{"x":3.0,"y":9.0}, "range":0.3}
+{"combo":"Su", "damage":1,"knockback":{"x":0.0,"y":0.0}, "range":0.3}
+{"combo":"SuSu", "damage":1,"knockback":{"x":0.0,"y":0.0}, "range":0.3}
+{"combo":"SuSuSu", "damage":10,"knockback":{"x":2.0,"y":15.0}, "range":0.3}
+--
+{"name":"Kikoken", "singleHit":true, "velocity":{"x":2.0,"y":0.0}}
+{"combo":"P","damage":10,"knockback":{"x":2.0,"y":7.0}, "range":0.3}
+--
+{"name":"Kikosho", "singleHit":false,"velocity":{"x":0.0,"y":0.0}}
+{"combo":"P", "damage":0.3,"knockback":{"x":0.0,"y":0.0}, "range":0.6}
+{"combo":"PP", "damage":10,"knockback":{"x":2.0,"y":7.0}, "range":0.6}
+--

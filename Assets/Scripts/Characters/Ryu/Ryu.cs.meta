@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9a0160514f260f6429631814c4cc8e31
+timeCreated: 1456082426
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - healthbar: {instanceID: 0}
+  - HealthBarbackground: {instanceID: 0}
+  - themeMusic: {fileID: 8300000, guid: e4f0ff2bbb1fae24b9151738891c9172, type: 3}
+  - hadouken: {instanceID: 0}
+  - shakunetsu: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

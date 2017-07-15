@@ -1,0 +1,6 @@
+﻿{"name":"Black", "footOffset":0.95, "maxHealth":10, "maxSpeed":1}
+{"combo":"C", "damage":4,"knockback":{"x":3.0,"y":7.0}, "range":0.3}
+--
+{"name":"Knife", "singleHit":true, "velocity":{"x":7.0,"y":0.0}, "lifetime":3}
+{"combo":"P","damage":10,"knockback":{"x":2.0,"y":7.0}, "range":0.6}
+--

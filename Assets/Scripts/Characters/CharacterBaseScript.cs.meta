@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1b0faff740b312a4f8d51267d59ef59c
+timeCreated: 1458497287
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - healthBarForeground: {fileID: 2800000, guid: 2b6dac908265aa74fa89f7be1a954a06,
+      type: 3}
+  - healthBarBackground: {fileID: 2800000, guid: 63cbead7b4f347c4a9f6f2806950adcf,
+      type: 3}
+  - specialBarForeground: {instanceID: 0}
+  - specialBarBackground: {instanceID: 0}
+  - portrait: {instanceID: 0}
+  - themeMusic: {instanceID: 0}
+  - hitSpark: {fileID: 159128, guid: e7a84e8fa923a7a4ea6c6b3db361461e, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

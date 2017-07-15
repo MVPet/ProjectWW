@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d7edb42a8ef1cb543bb758ef5dde3bfc
+timeCreated: 1456082445
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - healthbar: {instanceID: 0}
+  - HealthBarbackground: {instanceID: 0}
+  - themeMusic: {fileID: 8300000, guid: 1f07d16b51a9c88469ff79d9f9d0bdbf, type: 3}
+  - table: {instanceID: 0}
+  - mouse: {instanceID: 0}
+  - pPlane: {instanceID: 0}
+  - fire: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

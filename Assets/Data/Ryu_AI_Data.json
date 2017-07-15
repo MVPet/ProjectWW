@@ -1,0 +1,19 @@
+﻿{"name":"Ryu", "footOffset":2, "maxHealth":10, "maxSpeed":1.5}
+{"combo":"N", "damage":1,"knockback":{"x":0.0,"y":0.0}, "range":0.3}
+{"combo":"NN", "damage":1,"knockback":{"x":0.0,"y":0.0}, "range":0.3}
+{"combo":"NNN", "damage":1,"knockback":{"x":0.0,"y":0.0}, "range":0.3}
+{"combo":"NNNN", "damage":1,"knockback":{"x":0.0,"y":10.0}, "range":0.3}
+{"combo":"NNNNN", "damage":4,"knockback":{"x":3.0,"y":10.0}, "range":0.3}
+{"combo":"Sp", "damage":8,"knockback":{"x":0.0,"y":0.0}, "range":0.3}
+{"combo":"NNSp", "damage":4,"knockback":{"x":1.0,"y":10.0}, "range":0.3}
+{"combo":"NNNSp", "damage":4,"knockback":{"x":1.0,"y":10.0}, "range":0.3}
+{"combo":"Su", "damage":1,"knockback":{"x":0.0,"y":0.0}, "range":0.3}
+{"combo":"SuSu", "damage":1,"knockback":{"x":0.0,"y":0.0}, "range":0.3}
+{"combo":"SuSuSu", "damage":10,"knockback":{"x":2.0,"y":15.0}, "range":0.3}
+--
+{"name":"Hadouken", "singleHit":true, "velocity":{"x":7.0,"y":0.0}, "lifetime":3}
+{"combo":"P","damage":1,"knockback":{"x":1.0,"y":7.5}, "range":0.3}
+--
+{"name":"Shakunetsu", "singleHit":false, "velocity":{"x":3.0,"y":0.0}, "lifetime":3}
+{"combo":"P","damage":1,"knockback":{"x":0.0,"y":0.0}, "range":0.3}
+--
